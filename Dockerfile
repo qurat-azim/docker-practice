@@ -1,2 +1,2 @@
-# Sat Dec 10, 2022
+# Dec 10, 2022
 FROM debian:stable
